@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruturajraut
-- 👀 I’m interested in Web Development, Java , Python , Data Science with Python, and ML.
+- 👀 I’m interested in Web Development( ASP.NET MVC, ASP.NET Core, C#.NET), Angular, ReactJs frameworks, Python, Data Science.
 - 🌱 I completed BE in Computer Engineering.
 - 💞️ I’m looking forward for IT job.
 - 📫 How to reach me 
