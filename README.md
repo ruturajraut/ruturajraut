@@ -4,7 +4,7 @@
 - 💞️ I’m looking forward for IT job.
 - 📫 How to reach me 
 - My Email Id : ruturajraut2000@gmail.com
-- My Linked In : https://www.linkedin.com/in/ruturaj-raut-2000/
+- My Linked In : https://www.linkedin.com/in/ruturaj-raut/
 - Contact Number: 8355826324
 - My Address: Anjani Complex, B-307, Shilottar Raichur, Sukapur, New Panvel-410206, Raigad, Maharashtra, India.
 
