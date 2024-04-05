@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ruturajraut
-- 👀 I’m interested in Web Development( ASP.NET MVC, ASP.NET Core, C#.NET), Angular, ReactJs frameworks, Python, Data Science.
+- 👋 Hi, I’m @ruturajraut.
 - 🌱 I completed BE in Computer Engineering.
-- 💞️ I’m looking forward for IT job.
+- 💞️ I’m currently pursuing job as Full Stack Developer.
 - 📫 How to reach me 
 - My Email Id : ruturajraut2000@gmail.com
 - My Linked In : https://www.linkedin.com/in/ruturaj-raut/
