@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruturajraut.
-- 🌱 I completed BE in Computer Engineering.
+- 🌱 I have completed BE in Computer Engineering.
 - 💞️ I’m currently pursuing job as Full Stack Developer.
 - 📫 How to reach me 
 - My Email Id : ruturajraut2000@gmail.com
